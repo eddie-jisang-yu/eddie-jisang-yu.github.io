@@ -60,7 +60,7 @@ See all posts on the [Writings](/writings) page.
 
 ## Contact
 
-- Email: **jisangyu@stanford.edu**  
+- Email: jisangyu[at]stanford[dot]edu
 - GitHub: [github.com/eddie-jisang-yu](https://github.com/eddie-jisang-yu)  
 
 ---
