@@ -8,7 +8,7 @@ title: "Home"
 
 ---
 
-# Eddie Jisang Yu, CPA
+# Eddie J. Yu, CPA
 <img src="profile.jpg" alt="Eddie Jisang Yu" width="200" style="border-radius: 8px; float: right; margin: 0 0 20px 20px;">
 
 **JD/PhD Candidate in Accounting · Stanford University**  
