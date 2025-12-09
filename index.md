@@ -3,7 +3,8 @@ layout: default
 title: "Home"
 ---
 
-[Home](/) · [CV](cv.pdf) · [Research](/research) · [Teaching](/teaching) · [Contact](#contact)
+[Home](/) · [CV](cv.pdf) · [Research](/research) · [Teaching](/teaching) · [Writings](/writings) · [Contact](#contact)
+
 
 ---
 
@@ -41,7 +42,19 @@ See the [Teaching](/teaching) page for updates.
 ## Credentials
 
 - Certified Public Accountant — Washington State (Active)
-- JD/PhD Program in Accounting, Stanford University
+- JD, Stanford Law School
+- Ph.D. in Accounting, Stanford GSB
+- MSc in Computer Science, University of Chicago
+- Bachelor of Business Administration, Seoul National University
+
+---
+## Miscellaneous Writings
+
+Occasional essays, notes, and practical advice about graduate school, the PhD process, academic workflow, and professional development.
+
+- More posts coming soon...
+
+See all posts on the [Writings](/writings) page.
 
 ---
 
