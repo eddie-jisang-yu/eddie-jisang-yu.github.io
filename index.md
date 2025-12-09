@@ -2,8 +2,11 @@
 layout: default
 title: "Home"
 ---
+[Home](/) · [CV](cv.pdf) · [Research](/research) · [Teaching](/teaching) · [Contact](#contact)
 
-# Eddie Jisang Yu
+---
+
+# Eddie Jisang Yu, CPA
 
 JD/Ph.D. in Accounting
 
@@ -17,6 +20,9 @@ My work lies at the intersection of law, finance, and accounting.
 ## Teaching
 
 - Course name (Institution, Term)
+
+## License
+Certified Public Accountant (Washington, Active)
 
 ## Contact
 
