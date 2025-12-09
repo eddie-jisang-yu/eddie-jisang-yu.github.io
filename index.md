@@ -42,8 +42,8 @@ See the [Teaching](/teaching) page for updates.
 ## Credentials
 
 - Certified Public Accountant — Washington State (Active)
-- JD, Stanford Law School
-- Ph.D. in Accounting, Stanford GSB
+- JD, Stanford Law School (Expected: June 2030)
+- Ph.D. in Accounting, Stanford GSB (Expected: June 2030)
 - MSc in Computer Science, University of Chicago
 - Bachelor of Business Administration, Seoul National University
 
@@ -62,6 +62,5 @@ See all posts on the [Writings](/writings) page.
 
 - Email: **jisangyu@stanford.edu**  
 - GitHub: [github.com/eddie-jisang-yu](https://github.com/eddie-jisang-yu)  
-- Website: **https://eddie-jisang-yu.github.io**
 
 ---
