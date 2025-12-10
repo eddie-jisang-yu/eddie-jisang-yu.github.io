@@ -2,3 +2,5 @@ title: "Eddie Jisang Yu"
 description: "JD/Ph.D. in Accounting, Stanford University"
 theme: jekyll-theme-minimal
 url: "https://eddie-jisang-yu.github.io"
+sass:
+  style: compressed
