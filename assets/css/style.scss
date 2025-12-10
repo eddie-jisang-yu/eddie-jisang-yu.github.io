@@ -1,0 +1,67 @@
+---
+---
+
+/* Import the base theme first */
+@import "{{ site.theme }}";
+
+/* -----------------------------
+   Stanford Cardinal Red Styling
+   -----------------------------*/
+
+body {
+  max-width: 850px;
+  margin: 0 auto;
+  color: #111;
+  background: #ffffff;
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+/* Headers */
+h1, h2, h3 {
+  color: #8C1515; /* Cardinal Red */
+}
+
+/* Navigation Bar */
+nav, .site-nav {
+  border-bottom: 2px solid #8C1515;
+  padding-bottom: 0.6rem;
+  margin-bottom: 2rem;
+}
+
+nav a, .site-nav a {
+  color: #8C1515 !important;
+  text-decoration: none;
+  margin-right: 1.2rem;
+  font-weight: bold;
+}
+
+nav a:hover, .site-nav a:hover {
+  color: #820000 !important; /* Darker Cardinal */
+  text-decoration: underline;
+}
+
+/* Links */
+a {
+  color: #8C1515;
+}
+
+a:hover {
+  color: #820000;
+}
+
+/* Section dividers */
+hr, .divider {
+  border: 0;
+  border-bottom: 1px solid #8C1515;
+  margin: 2rem 0;
+}
+
+/* Optional: circular images */
+img {
+  border-radius: 6px;
+}
+
+/* Fine print */
+footer, small {
+  color: #545454;
+}
